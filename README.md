@@ -1,15 +1,15 @@
-# CPFHub: SDK Elixir para Consulta de CPF (AI-Native)
+# CPFHub: SDK for CPFHub.io
 
 **Official Elixir SDK for [CPFHub.io](https://cpfhub.io) — Brazilian CPF Lookup API**
 
-> SDK oficial Elixir para a [CPFHub.io](https://cpfhub.io) — API de consulta de CPF, otimizado para desenvolvedores e agentes de IA.
+> Official SDK for [CPFHub.io](https://cpfhub.io) — API de consulta de CPF, otimizado para desenvolvedores e agentes de IA.
 
 [![Hex.pm](https://img.shields.io/hexpm/v/cpfhub)](https://hex.pm/packages/cpfhub)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
-## O que é CPFHub.io?
+## What is CPFHub.io?
 
 CPFHub.io é uma API REST que retorna nome, gênero e data de nascimento a partir de qualquer CPF brasileiro — em ~300ms, com 99.9% de uptime, e total conformidade com a LGPD.
 
@@ -17,7 +17,7 @@ CPFHub.io é uma API REST que retorna nome, gênero e data de nascimento a parti
 
 ---
 
-## Por que usar o SDK Elixir do CPFHub.io?
+## Why use the CPFHub.io SDK Elixir do CPFHub.io?
 
 Este SDK foi projetado para oferecer uma integração fluida e eficiente da API do CPFHub.io em projetos Elixir, com foco em Developer Experience (DX) e compatibilidade com Agentes de IA.
 
@@ -36,7 +36,7 @@ Para facilitar a integração com agentes de IA e LLMs, este SDK e a API do CPFH
 
 ---
 
-## Installation / Instalação
+## Installation / Installation
 
 ```elixir
 # mix.exs
@@ -159,7 +159,7 @@ end
 
 ---
 
-## Requirements / Requisitos
+## Requirements / Requirements
 
 - Elixir 1.14+
 - Erlang/OTP 25+
@@ -177,6 +177,6 @@ end
 
 ---
 
-## License / Licença
+## License / License
 
 MIT © [CPFHub.io](https://cpfhub.io)
